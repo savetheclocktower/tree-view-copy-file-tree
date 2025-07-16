@@ -1,7 +1,7 @@
 {
   "name": "tree-view-copy-file-tree",
   "main": "./lib/main",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Put an ASCII tree representation of part of your project structure into the clipboard",
   "keywords": [
     "tree-view"
@@ -11,6 +11,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
