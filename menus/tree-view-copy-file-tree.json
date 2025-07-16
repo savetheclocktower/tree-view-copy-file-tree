@@ -1,0 +1,11 @@
+{
+  "context-menu": {
+    ".tree-view li[is=\"tree-view-directory\"]": [
+      {
+        "label": "Copy Subtree as ASCII",
+        "command": "tree-view-copy-file-tree:copy-subtree"
+      }
+    ]
+  }
+
+}
